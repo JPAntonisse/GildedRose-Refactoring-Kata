@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\ApprovalTest::testThirtyDays":7,"Tests\\ApprovalTest::testFoo":7,"Tests\\GildedRoseTest::testFoo":7},"times":{"Tests\\ApprovalTest::testThirtyDays":0.008,"Tests\\ApprovalTest::testFoo":0.006,"Tests\\GildedRoseTest::testFoo":0.005}}

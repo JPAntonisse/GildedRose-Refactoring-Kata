@@ -12,7 +12,7 @@ class GildedRoseTest extends TestCase
 {
     public function testFoo(): void
     {
-        $items = [new Item('foo', 0, 0)];
+        $items = [new Item('Aged Brie', 10, 10)];
         $gildedRose = new GildedRose($items);
         $gildedRose->updateQuality();
         $this->assertSame('fixme', $items[0]->name);
